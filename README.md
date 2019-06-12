@@ -14,4 +14,4 @@ serve -s build (whic will accept the connetion at http://localhost:5000)
 
 if port want to adjust other than 5000
 
-serve -s build -l <portnumber>
+serve -s build -l portnumber
